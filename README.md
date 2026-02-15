@@ -93,9 +93,3 @@ This backend API is for a vaccine registration system similar to Cowin/ArogyaSet
 - Node.js installed (v14+ recommended)
 - MongoDB Atlas account and cluster created
 - Environment variables configured in `.env` file:
-
-
-## .env file private credentials
-- MONGODB_URI="mongodb+srv://ashika922005_db_user:Ashika@vaccinerunocluster.zaol6gl.mongodb.net/"
-- JWT_SECRET=752f2897a027290d7af806d3a2e7da6c0bf2d9aab0b04390d7675549bc58f0dafce7000d9b89f008f4a2b1a78070a48e080b2c3272ca69bdaea3d982bf3de187
-- PORT=8000
